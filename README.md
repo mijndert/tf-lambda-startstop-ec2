@@ -13,5 +13,5 @@ By default it will start the instances at 7 AM, and stop them at 7 PM. This can 
 ## TODO
 
 - Read instance ID's from central file and package on the fly
-- Seperate main.tf out into multiple files for readability
+- Separate main.tf out into multiple files for readability
 
